@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP**
 
 - 📫 How to reach me **harshituppaldevs07@gmail.com**
 
